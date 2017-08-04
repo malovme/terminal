@@ -42,6 +42,9 @@ terminal.total
 # => "$ 32.40"
 ```
 
-TODO: Write usage instructions here
+## Testing
 
-
+    $ git clone git@github.com:malovme/terminal.git
+    $ cd terminal
+    $ bundle
+    $ rake spec
