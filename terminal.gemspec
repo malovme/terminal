@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Michael Malov"]
   spec.email         = ["mmeemail@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{Point-of-sale scanning API}
+  spec.description   = %q{Demo gem which implements store terminal API}
+  spec.homepage      = "https://github.com/malovme/terminal"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
