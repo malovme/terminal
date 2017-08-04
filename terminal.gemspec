@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["mmeemail@gmail.com"]
 
   spec.summary       = %q{Point-of-sale scanning API}
-  spec.description   = %q{Demo gem which implements store terminal API}
+  spec.description   = %q{Demo gem which implements point-of-sale scanning  API}
   spec.homepage      = "https://github.com/malovme/terminal"
   spec.license       = "MIT"
 
